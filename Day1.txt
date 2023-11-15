@@ -1,0 +1,5 @@
+1.Write js console?
+Ans: console.log("Hi");
+
+2.Question
+Ans:
